@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First Blog Post"
+title:  "My First  Post"
 comments: true
 date:   2018-03-12 10:55:20 +0530
 ---
@@ -8,7 +8,8 @@ date:   2018-03-12 10:55:20 +0530
 Hello!
 This is my first blog.
 
-My name is Anshika Lohia,
+My name is Anshika Lohia and You can find some interesting and educactional blogs here.
+Hope you enjoy and thank you for supporting.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
