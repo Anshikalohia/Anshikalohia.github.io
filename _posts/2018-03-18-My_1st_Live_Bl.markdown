@@ -5,7 +5,7 @@ comments: true
 date:   2018-03-18 08:19:20 +0530
 ---
 
-Representing the Societal Aspect of Space
+
 
 
 There is a difference between a space and a place, which people are unaware of.
@@ -53,9 +53,9 @@ spaces are affected. Their drinking water is being deteriorated, air pollution i
 that the industries were the cause of the floods. Their representation of “space” affects the representational
 space.
 
-[Map.pdf](https://github.com/SODNMIMS/custom-animation-Anshikalohia/files/1822783/Map.pdf)
+![map](https://user-images.githubusercontent.com/36836537/37567425-c30a5fcc-2aec-11e8-9c19-2673ac6dfc01.jpg)
 
-The map below shows the evolution of the creek and how the increasing number of
+The map above shows the evolution of the creek and how the increasing number of
 industries are degrading the ecosystem around the creek.
 
 
