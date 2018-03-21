@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First  Post"
+title:  "Intoduction to my blogs"
 comments: true
 date:   2018-03-12 10:55:20 +0530
 ---
