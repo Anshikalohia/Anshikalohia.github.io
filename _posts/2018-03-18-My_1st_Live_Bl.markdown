@@ -8,7 +8,7 @@ date:   2018-03-18 08:19:20 +0530
 
 
 
-There is a difference between a space and a place, which people are unaware of.
+There is a difference between space and place, which people are unaware of.
 Space is supposed to be abstract and place is territorial. Space depends and constitutes of  how one uses that
 place. According to Henri Lefebvre space has tripartite distinction: Spatial practice; which is the production
 and reproduction of the space,Representations of space; meaning how it is conceived by the dominant structure

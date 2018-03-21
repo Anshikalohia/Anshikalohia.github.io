@@ -8,7 +8,11 @@ date:   2018-03-12 10:55:20 +0530
 Hello!
 This is my first blog.
 
-My name is Anshika Lohia and You can find some interesting and educactional blogs here.
+My name is Anshika Lohia.
+
+You can find some interesting and educactional blogs here.
+(Updates are not so frequent)
+
 Hope you enjoy and thank you for supporting.
 
 {% if page.comments %}
