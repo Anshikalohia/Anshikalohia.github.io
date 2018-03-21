@@ -12,7 +12,7 @@ There is a difference between space and place, which people are unaware of.
 Space is supposed to be abstract and place is territorial. Space depends and constitutes of  how one uses that
 place. According to Henri Lefebvre space has tripartite distinction: Spatial practice; which is the production
 and reproduction of the space,Representations of space; meaning how it is conceived by the dominant structure
-and Representational space; which is the experiences that is created of the people who live there everyday.
+and Representational space; which is the experience of the people who live there everyday.
 
 
 The ever increasing human desire of achieving comfort and luxury has lead to the ignorance of the natural
