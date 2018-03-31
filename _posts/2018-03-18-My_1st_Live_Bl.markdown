@@ -46,6 +46,9 @@ Ennore ‘he’ will come for your city to destroy the livelihood. By ‘he’, 
 In the end he provokes the listeners, by saying that he is a poromboke, are we too?
 
 
+Link to the video:
+https://www.youtube.com/watch?v=82jFyeV5AHM
+
 There are many spatial practices in this context. The Industries are taking over the nature’s space,
 the communities space; especially the fisherman’s. The fishermen’s livelihood is stolen by them,
 fishermen cannot fish due to toxic waste dumped in the waterbodies. Even the residential community
